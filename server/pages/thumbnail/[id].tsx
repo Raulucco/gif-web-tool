@@ -21,20 +21,10 @@ export async function getServerSideProps({ params, res, req }) {
 }
 
 export default function Thumbnail({ layers }) {
-  // return <Animation layers={layers.map((layer) => {
-  //   return {
-  //     ...layer,
-  //     dimensions: {
-  //       width: document.documentElement.clientWidth,
-  //       height: document.documentElement.clientHeight,
-
-  //     }
-  //   };
-  // })} />;
   return (
     <div className="thumbnail-canvas" style={{
       position: 'relative',
-      width: '100vw',
+      width: '100%',
       height: '100vh',
     }}>
       {layers.map((layer: LayerMeta, i: number) => {

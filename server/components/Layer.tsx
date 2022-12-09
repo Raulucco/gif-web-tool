@@ -26,6 +26,7 @@ export function Layer({ image, isThumbnail = false }: LayerProps) {
       backgroundImage: `url(${image.url})`,
       backgroundSize: 'contain',
       backgroundRepeat: 'no-repeat',
+      backgroundPosition: 'center',
       width: isThumbnail ? '100%' : `${image.dimensions.width}px`,
       height: isThumbnail ? '100vh' :`${image.dimensions.height}px`,
     }),

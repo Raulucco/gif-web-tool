@@ -4,19 +4,27 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview --port 8080"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "v:dev": "vite",
+    "v:build": "tsc && vite build",
+    "v:preview": "vite preview --port 8080"
   },
   "dependencies": {
+    "buffer-image-size": "^0.6.4",
+    "image-size": "^1.0.2",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.1",
+    "next": "^13.0.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.4",
     "sort-by": "^0.0.2"
   },
   "devDependencies": {
+    "@types/node": "18.11.12",
     "@types/react": "^18.0.24",
     "@types/react-dom": "^18.0.8",
     "@vitejs/plugin-react": "^2.2.0",

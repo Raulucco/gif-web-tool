@@ -1,5 +1,6 @@
 import React from "react";
 import { Animation } from "../../components/Animation";
+import { Layer, LayerMeta } from "../../components/Layer";
 import { parse } from "../../layers-api/parse";
 
 export async function getServerSideProps({ params, res, req }) {
@@ -20,5 +21,25 @@ export async function getServerSideProps({ params, res, req }) {
 }
 
 export default function Thumbnail({ layers }) {
-  return <Animation layers={layers} />;
+  // return <Animation layers={layers.map((layer) => {
+  //   return {
+  //     ...layer,
+  //     dimensions: {
+  //       width: document.documentElement.clientWidth,
+  //       height: document.documentElement.clientHeight,
+
+  //     }
+  //   };
+  // })} />;
+  return (
+    <div className="thumbnail-canvas" style={{
+      position: 'relative',
+      width: '100vw',
+      height: '100vh',
+    }}>
+      {layers.map((layer: LayerMeta, i: number) => {
+        return (<Layer key={`${layer.name}_${i}`} image={layer} isThumbnail />);
+      })}
+    </div>
+  );
 }

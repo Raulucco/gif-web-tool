@@ -23,7 +23,7 @@
   },
   "include": [
     "src"
-, "components/Animation.tsx", "components/Layer.tsx", "components/Thumbnail.tsx", "components/layers-manifest.ts", "components/Loader.tsx"  ],
+, "components/Animation.tsx", "components/Layer.tsx", "components/Thumbnail.tsx", "components/layers-manifest.ts" ],
   "references": [
     {
       "path": "./tsconfig.node.json"

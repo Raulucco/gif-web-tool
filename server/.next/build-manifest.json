@@ -29,11 +29,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/animation/[id].js"
-    ],
-    "/thumbnail/[id]": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/thumbnail/[id].js"
     ]
   },
   "ampFirstPages": []

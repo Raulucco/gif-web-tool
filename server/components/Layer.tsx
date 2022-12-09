@@ -1,6 +1,5 @@
 import React from "react";
 import { useMemo, useRef } from "react";
-
 export interface Dimensions {
   width: number;
   height: number;
@@ -32,5 +31,6 @@ export function Layer({ image, isThumbnail = false }: LayerProps) {
     }),
     [image.url, isThumbnail]
   );
+
   return <div className="layer" ref={layerRef} style={layerStyle as React.CSSProperties}></div>;
 }

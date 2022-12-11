@@ -21,12 +21,15 @@ export function Animation({ layers }: AnimationProps) {
   const style = useMemo(() => {
     return {
       position: "relative",
-      width: dimensions.width,
-      height: dimensions.height,
+      width: "calc(100% -16px)",
+      height: "calc(100vh - 16px)",
+      maxWidth: `${dimensions.width}px`,
+      maxHeight: `${dimensions.height}px`,
+      overflow: "hidden",
     };
   }, [dimensions.width, dimensions.height]);
   return (
-    <div className="canvas" style={{ position: "relative" }}>
+    <div className="canvas" style={style as React.CSSProperties}>
       {layers.map((layer, i) => (
         <Layer key={`${layer.name}_${i}`} image={layer} />
       ))}

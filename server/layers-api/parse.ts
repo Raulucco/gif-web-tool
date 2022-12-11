@@ -1,5 +1,5 @@
 import { LayerMeta } from "../components/Layer";
-import { getLayers } from "../components/layers-manifest";
+import { getLayers } from "./layers-manifest";
 import sizeOf from "buffer-image-size";
 
 export async function parse(id: string, protocol: string, host: string) {

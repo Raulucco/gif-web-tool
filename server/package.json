@@ -7,17 +7,13 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "v:dev": "vite",
-    "v:build": "tsc && vite build",
-    "v:preview": "vite preview --port 8080"
+    "lint": "next lint"
   },
   "dependencies": {
     "buffer-image-size": "^0.6.4",
     "image-size": "^1.0.2",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.1",
-    "merge-base64": "^1.0.4",
     "next": "^13.0.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -28,8 +24,6 @@
     "@types/node": "18.11.12",
     "@types/react": "^18.0.24",
     "@types/react-dom": "^18.0.8",
-    "@vitejs/plugin-react": "^2.2.0",
-    "typescript": "^4.6.4",
-    "vite": "^3.2.3"
+    "typescript": "^4.6.4"
   }
 }

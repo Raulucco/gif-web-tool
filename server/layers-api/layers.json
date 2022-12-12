@@ -1,802 +1,802 @@
 [
   {
     "layers": [
-      "background/AlienSquid.png",
-      "frame/ColouredPixels.png",
+      "background/Gift.png",
+      "frame/Red-Squares.png",
       "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
-      "background/Alien.png",
-      "frame/RedSquares.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
+      "background/Purple-P.png",
+      "frame/Green-Pixels.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
-      "background/HellChristmas.png",
-      "frame/ChristmasBalls.png",
-      "anim/Decorations.gif",
-      "logo/MixtapeVol6A.png"
+      "background/Crazy-Santa.png",
+      "frame/Grandma-Sweater.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
-      "background/PinkAlien.png",
-      "frame/ChristmasBalls.png",
-      "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
+      "background/Tree.png",
+      "frame/Green-Pixels.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-3.png"
     ]
   },
   {
     "layers": [
-      "background/Robot.png",
-      "frame/ChristmasBalls.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Logistics.png",
-      "frame/RedSquares.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
+      "background/Hell-Christmas.png",
+      "frame/Go-Santa.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
     ]
   },
   {
     "layers": [
       "background/Lights.png",
-      "frame/ChristmasBalls.png",
+      "frame/Go-Santa.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Hell-Christmas.png",
+      "frame/Go-Santa.png",
       "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
-      "background/Cutecat.png",
-      "frame/GoSanta.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Pankakes.png",
-      "frame/ColouredPixels.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/PixelDog.png",
-      "frame/GoSanta.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Fold.png",
-      "frame/RedSquares.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/PinkAlien.png",
-      "frame/RedSquares.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6A.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/HumanTrash.png",
-      "frame/GreenPixels.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Face.png",
-      "frame/RedSquares.png",
-      "anim/Snow.gif",
-      "logo/MixtapeVol6A.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Beer.png",
-      "frame/RedSquares.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/PRD.png",
-      "frame/ColouredPixels.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6A.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/BlueA.png",
-      "frame/RedSquares.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Mosaic.png",
-      "frame/ChristmasBalls.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/HumanTrash.png",
-      "frame/ChristmasBalls.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Gift.png",
-      "frame/ChristmasBalls.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/BlueA.png",
-      "frame/ChristmasBalls.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/FigmaPixel.png",
-      "frame/ColouredPixels.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/BlueA.png",
-      "frame/GoSanta.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Mosaic.png",
-      "frame/RedSquares.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/CrazySanta.png",
-      "frame/ChristmasBalls.png",
-      "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/PRD.png",
-      "frame/RedSquares.png",
-      "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Gift.png",
-      "frame/GreenPixels.png",
-      "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/PurpleCar.png",
-      "frame/ChristmasBalls.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Mosaic.png",
-      "frame/RedSquares.png",
-      "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Lights.png",
-      "frame/GreenPixels.png",
-      "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Santa.png",
-      "frame/GreenPixels.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Gift.png",
-      "frame/GoSanta.png",
-      "anim/Decorations.gif",
-      "logo/MixtapeVol6A.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/BlueA.png",
-      "frame/GoSanta.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Fold.png",
-      "frame/RedSquares.png",
-      "anim/Snow.gif",
-      "logo/MixtapeVol6A.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Fish.png",
-      "frame/GoSanta.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/PurpleP.png",
-      "frame/GoSanta.png",
-      "anim/Snow.gif",
-      "logo/MixtapeVol6A.png"
+      "background/Abstract.png",
+      "frame/Coloured-Pixels.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
       "background/RIP.png",
-      "frame/GreenPixels.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
+      "frame/Christmas-Balls.png",
+      "anim/Decorations.gif",
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
-      "background/PinkAlien.png",
-      "frame/ChristmasBalls.png",
-      "anim/Snow.gif",
-      "logo/MixtapeVol6A.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/RollingStones.png",
-      "frame/GreenPixels.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6A.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/CrazySanta.png",
-      "frame/ColouredPixels.png",
-      "anim/Snow.gif",
-      "logo/MixtapeVol6B.png"
+      "background/Purple-P.png",
+      "frame/Christmas-Balls.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-3.png"
     ]
   },
   {
     "layers": [
       "background/Tree.png",
-      "frame/ColouredPixels.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
+      "frame/Go-Santa.png",
+      "anim/Decorations.gif",
+      "logo/Mixtape-Logo-3.png"
     ]
   },
   {
     "layers": [
-      "background/Gift.png",
-      "frame/GreenPixels.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
+      "background/Lights.png",
+      "frame/Coloured-Pixels.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-3.png"
     ]
   },
   {
     "layers": [
-      "background/CrazySanta.png",
-      "frame/GreenPixels.png",
+      "background/Purple-Car.png",
+      "frame/Christmas-Balls.png",
+      "anim/Decorations.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Grinch-2.png",
+      "frame/Red-Squares.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Figma-Pixel.png",
+      "frame/Red-Squares.png",
       "anim/Snow.gif",
-      "logo/MixtapeVol6B.png"
+      "logo/Mixtape-Logo-1.png"
     ]
   },
   {
     "layers": [
-      "background/Tree.png",
-      "frame/GreenPixels.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/PurpleCar.png",
-      "frame/RedSquares.png",
+      "background/RIP.png",
+      "frame/Green-Pixels.png",
       "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
-      "background/Logistics.png",
-      "frame/ChristmasBalls.png",
-      "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Fold.png",
-      "frame/GoSanta.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/RollingStones.png",
-      "frame/GrandmaSweater.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Beer.png",
-      "frame/ChristmasBalls.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/PRD.png",
-      "frame/ChristmasBalls.png",
-      "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Fish.png",
-      "frame/GreenPixels.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Logistics.png",
-      "frame/ColouredPixels.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/PinkAlien.png",
-      "frame/ColouredPixels.png",
-      "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/PinkAlien.png",
-      "frame/ColouredPixels.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
+      "background/Purple-Car.png",
+      "frame/Coloured-Pixels.png",
+      "anim/Snow.gif",
+      "logo/Mixtape-Logo-3.png"
     ]
   },
   {
     "layers": [
       "background/Face.png",
-      "frame/ChristmasBalls.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
+      "frame/Grandma-Sweater.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-3.png"
     ]
   },
   {
     "layers": [
-      "background/Beer.png",
-      "frame/GrandmaSweater.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
+      "background/Pixel-Dog.png",
+      "frame/Red-Squares.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
     ]
   },
   {
     "layers": [
-      "background/Gift.png",
-      "frame/RedSquares.png",
+      "background/PRD.png",
+      "frame/Grandma-Sweater.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Human-Trash.png",
+      "frame/Red-Squares.png",
       "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
-      "background/Fold.png",
-      "frame/GoSanta.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6A.png"
+      "background/Crazy-Santa.png",
+      "frame/Coloured-Pixels.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Santa.png",
+      "frame/Christmas-Balls.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Abstract.png",
+      "frame/Coloured-Pixels.png",
+      "anim/Decorations.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Face.png",
+      "frame/Go-Santa.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/RIP.png",
+      "frame/Red-Squares.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Pixel-Mao.png",
+      "frame/Red-Squares.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
       "background/Logistics.png",
-      "frame/GreenPixels.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
+      "frame/Coloured-Pixels.png",
+      "anim/Decorations.gif",
+      "logo/Mixtape-Logo-3.png"
     ]
   },
   {
     "layers": [
-      "background/PixelMao.png",
-      "frame/GoSanta.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
+      "background/Face.png",
+      "frame/Go-Santa.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
     ]
   },
   {
     "layers": [
-      "background/Fold.png",
-      "frame/GoSanta.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/PurpleP.png",
-      "frame/RedSquares.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Cutecat.png",
-      "frame/RedSquares.png",
+      "background/Purple-Car.png",
+      "frame/Christmas-Balls.png",
       "anim/Snow.gif",
-      "logo/MixtapeVol6B.png"
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
-      "background/PixelMao.png",
-      "frame/GrandmaSweater.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Fish.png",
-      "frame/GrandmaSweater.png",
+      "background/Alien-Squid.png",
+      "frame/Grandma-Sweater.png",
       "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
+      "logo/Mixtape-Logo-3.png"
     ]
   },
   {
     "layers": [
-      "background/Gift.png",
-      "frame/GoSanta.png",
+      "background/Blue-A.png",
+      "frame/Go-Santa.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Cute-Cat.png",
+      "frame/Grandma-Sweater.png",
+      "anim/Snow.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Alien.png",
+      "frame/Go-Santa.png",
+      "anim/Snow.gif",
+      "logo/Mixtape-Logo-1.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Human-Trash.png",
+      "frame/Grandma-Sweater.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Human-Trash.png",
+      "frame/Grandma-Sweater.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Mosaic.png",
+      "frame/Green-Pixels.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Cute-Cat.png",
+      "frame/Green-Pixels.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Pixel-Dog.png",
+      "frame/Red-Squares.png",
       "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Purple-Car.png",
+      "frame/Red-Squares.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-1.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Alien-Squid.png",
+      "frame/Go-Santa.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Mosaic.png",
+      "frame/Christmas-Balls.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
       "background/Cars.png",
-      "frame/ColouredPixels.png",
+      "frame/Coloured-Pixels.png",
       "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
+      "logo/Mixtape-Logo-1.png"
     ]
   },
   {
     "layers": [
-      "background/Logistics.png",
-      "frame/ChristmasBalls.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Pankakes.png",
-      "frame/ChristmasBalls.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Beer.png",
-      "frame/ChristmasBalls.png",
+      "background/Hell-Christmas.png",
+      "frame/Christmas-Balls.png",
       "anim/Snow.gif",
-      "logo/MixtapeVol6B.png"
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
-      "background/Tree.png",
-      "frame/GoSanta.png",
-      "anim/Snow.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Cutecat.png",
-      "frame/ChristmasBalls.png",
-      "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Grinch.png",
-      "frame/ColouredPixels.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Fold.png",
-      "frame/ColouredPixels.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
+      "background/Grinch-2.png",
+      "frame/Go-Santa.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
       "background/Santa.png",
-      "frame/RedSquares.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/HumanTrash.png",
-      "frame/GoSanta.png",
+      "frame/Coloured-Pixels.png",
       "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
-      "background/Grinch.png",
-      "frame/GreenPixels.png",
-      "anim/Snow.gif",
-      "logo/MixtapeVol6B.png"
+      "background/Blue-A.png",
+      "frame/Christmas-Balls.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
     ]
   },
   {
     "layers": [
-      "background/Fish.png",
-      "frame/RedSquares.png",
+      "background/Hell-Christmas.png",
+      "frame/Coloured-Pixels.png",
       "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
-      "background/AlienSquid.png",
-      "frame/RedSquares.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/PurpleP.png",
-      "frame/GrandmaSweater.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
+      "background/Cars.png",
+      "frame/Coloured-Pixels.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
     ]
   },
   {
     "layers": [
       "background/Pankakes.png",
-      "frame/ColouredPixels.png",
+      "frame/Red-Squares.png",
       "anim/Snow.gif",
-      "logo/MixtapeVol6A.png"
+      "logo/Mixtape-Logo-1.png"
     ]
   },
   {
     "layers": [
-      "background/Alien.png",
-      "frame/GoSanta.png",
-      "anim/Decorations.gif",
-      "logo/MixtapeVol6A.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Gift.png",
-      "frame/GoSanta.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Alien.png",
-      "frame/ChristmasBalls.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Pankakes.png",
-      "frame/GrandmaSweater.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6A.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/AlienSquid.png",
-      "frame/GrandmaSweater.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
+      "background/Beer.png",
+      "frame/Red-Squares.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
       "background/PRD.png",
-      "frame/ChristmasBalls.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Mosaic.png",
-      "frame/RedSquares.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/PRD.png",
-      "frame/ColouredPixels.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6A.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Grinch2.png",
-      "frame/ChristmasBalls.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/FigmaPixel.png",
-      "frame/GreenPixels.png",
+      "frame/Coloured-Pixels.png",
       "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Logistics.png",
-      "frame/GoSanta.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Lights.png",
-      "frame/ChristmasBalls.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/RollingStones.png",
-      "frame/GrandmaSweater.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/RIP.png",
-      "frame/ColouredPixels.png",
-      "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Fold.png",
-      "frame/GreenPixels.png",
-      "anim/Decorations.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/FigmaPixel.png",
-      "frame/RedSquares.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
-    ]
-  },
-  {
-    "layers": [
-      "background/Fish.png",
-      "frame/RedSquares.png",
-      "anim/FlyingGifts.gif",
-      "logo/MixtapeVol6B.png"
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
       "background/Face.png",
-      "frame/RedSquares.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
+      "frame/Red-Squares.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Pixel-Dog.png",
+      "frame/Christmas-Balls.png",
+      "anim/Decorations.gif",
+      "logo/Mixtape-Logo-1.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Blue-A.png",
+      "frame/Red-Squares.png",
+      "anim/Snow.gif",
+      "logo/Mixtape-Logo-1.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Grinch.png",
+      "frame/Christmas-Balls.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Cars.png",
+      "frame/Go-Santa.png",
+      "anim/Decorations.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Robot.png",
+      "frame/Christmas-Balls.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Fold.png",
+      "frame/Christmas-Balls.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/PRD.png",
+      "frame/Red-Squares.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Human-Trash.png",
+      "frame/Christmas-Balls.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Hell-Christmas.png",
+      "frame/Coloured-Pixels.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Rolling-Stones.png",
+      "frame/Green-Pixels.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Purple-Car.png",
+      "frame/Coloured-Pixels.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Gift.png",
+      "frame/Grandma-Sweater.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-2.png"
     ]
   },
   {
     "layers": [
       "background/Mosaic.png",
-      "frame/GreenPixels.png",
-      "anim/PixelParticles.gif",
-      "logo/MixtapeVol6B.png"
+      "frame/Coloured-Pixels.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Mosaic.png",
+      "frame/Go-Santa.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Alien.png",
+      "frame/Red-Squares.png",
+      "anim/Snow.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Pankakes.png",
+      "frame/Go-Santa.png",
+      "anim/Decorations.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Lights.png",
+      "frame/Christmas-Balls.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Robot.png",
+      "frame/Red-Squares.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Beer.png",
+      "frame/Go-Santa.png",
+      "anim/Decorations.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Pankakes.png",
+      "frame/Coloured-Pixels.png",
+      "anim/Decorations.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Blue-A.png",
+      "frame/Christmas-Balls.png",
+      "anim/Snow.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Rolling-Stones.png",
+      "frame/Red-Squares.png",
+      "anim/Decorations.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Alien-Squid.png",
+      "frame/Go-Santa.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/PRD.png",
+      "frame/Green-Pixels.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-1.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Gift.png",
+      "frame/Grandma-Sweater.png",
+      "anim/Decorations.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Pixel-Mao.png",
+      "frame/Christmas-Balls.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Fold.png",
+      "frame/Red-Squares.png",
+      "anim/Snow.gif",
+      "logo/Mixtape-Logo-1.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Abstract.png",
+      "frame/Green-Pixels.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Pixel-Dog.png",
+      "frame/Coloured-Pixels.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Beer.png",
+      "frame/Grandma-Sweater.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Human-Trash.png",
+      "frame/Green-Pixels.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Robot.png",
+      "frame/Red-Squares.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-1.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Gift.png",
+      "frame/Grandma-Sweater.png",
+      "anim/Decorations.gif",
+      "logo/Mixtape-Logo-1.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Alien.png",
+      "frame/Christmas-Balls.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Fish.png",
+      "frame/Christmas-Balls.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Grinch-2.png",
+      "frame/Green-Pixels.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Cars.png",
+      "frame/Red-Squares.png",
+      "anim/Decorations.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Rolling-Stones.png",
+      "frame/Green-Pixels.png",
+      "anim/Snow.gif",
+      "logo/Mixtape-Logo-1.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/RIP.png",
+      "frame/Red-Squares.png",
+      "anim/Snow.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Gift.png",
+      "frame/Christmas-Balls.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Gift.png",
+      "frame/Grandma-Sweater.png",
+      "anim/Decorations.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Robot.png",
+      "frame/Coloured-Pixels.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Blue-A.png",
+      "frame/Red-Squares.png",
+      "anim/Decorations.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/RIP.png",
+      "frame/Green-Pixels.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-2.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Human-Trash.png",
+      "frame/Grandma-Sweater.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Santa.png",
+      "frame/Coloured-Pixels.png",
+      "anim/Flying-Gifts.gif",
+      "logo/Mixtape-Logo-3.png"
+    ]
+  },
+  {
+    "layers": [
+      "background/Lights.png",
+      "frame/Go-Santa.png",
+      "anim/Pixel-Particles.gif",
+      "logo/Mixtape-Logo-1.png"
     ]
   }
 ]

@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React from "react";
 import { useMemo, useRef } from "react";
 export interface Dimensions {
@@ -16,15 +17,11 @@ export interface LayerProps {
 }
 
 export function Layer({ image }: LayerProps) {
-  const layerRef = useRef<HTMLDivElement>(null);
+  const layerRef = useRef<HTMLDivElement>();
 
   const layerStyle = useMemo(
     () => ({
       position: "absolute",
-      backgroundImage: `url(${image.url})`,
-      backgroundSize: "contain",
-      backgroundRepeat: "no-repeat",
-      backgroundPosition: "center",
       width: "100%",
       height: "100vh",
     }),
@@ -32,10 +29,15 @@ export function Layer({ image }: LayerProps) {
   );
 
   return (
-    <div
-      className="layer"
-      ref={layerRef}
-      style={layerStyle as React.CSSProperties}
-    ></div>
+    <div style={layerStyle as React.CSSProperties}>
+      <Image
+        className="layer"
+        src={image.url}
+        alt={image.name}
+        layout="fill"
+        objectFit="contain"
+        placeholder="empty"
+      />
+    </div>
   );
 }

@@ -15,7 +15,7 @@ export async function parse(id: string, protocol: string, host: string) {
 
       return {
         name: url,
-        url: `data:image/${url.split('.')[-1]};base64,${img.toString('base64')}`,
+        url: `data:image/${url.split('.').pop()};base64,${img.toString('base64')}`,
         dimensions: {
           width,
           height,

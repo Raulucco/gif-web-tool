@@ -19,22 +19,14 @@ export function Animation({ layers }: AnimationProps) {
   }, layers);
   const style = useMemo(() => {
     return {
-      position: "relative",
-      width: "calc(100% -16px)",
-      height: "calc(100vh - 16px)",
       maxWidth: `${dimensions.width}px`,
       maxHeight: `${dimensions.height}px`,
-      overflow: "hidden",
-      display: "flex",
-      alignItems: "center",
-      justifyContent: "center",
-      margin: "0 auto",
     };
   }, [dimensions.width, dimensions.height]);
 
   return (
     <div className="flip-card">
-      <div className="flip-card-inner">
+      <div className={'flip-card-inner'}>
         <div className="flip-card-front">
           <div className="canvas" style={style as React.CSSProperties}>
             {layers.map((layer, i) => (

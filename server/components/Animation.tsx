@@ -43,9 +43,7 @@ export function Animation({ layers }: AnimationProps) {
           </div>
         </div>
         <div className="flip-card-back">
-          <h1>John Doe</h1>
-          <p>Architect & Engineer</p>
-          <p>We love that guy</p>
+          <h1>Mixtapes vol. 5</h1>
         </div>
       </div>
     </div>

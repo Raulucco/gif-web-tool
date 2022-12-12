@@ -29,6 +29,7 @@ export function Animation({ layers }: AnimationProps) {
       display: "flex",
       alignItems: "center",
       justifyContent: "center",
+      margin: "0 auto",
     };
   }, [dimensions.width, dimensions.height]);
   return (

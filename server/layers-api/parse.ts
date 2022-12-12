@@ -2,6 +2,17 @@ import { LayerMeta } from "../components/Layer";
 import { getLayers } from "./layers-manifest";
 import sizeOf from "buffer-image-size";
 
+function getImageSize(img: Buffer) {
+  try {
+    return sizeOf(img);
+  } catch (e) {
+    return {
+      width: 1080,
+      height: 1080,
+    }
+  }
+}
+
 export async function parse(id: string, protocol: string, host: string) {
   const layersUrl = getLayers(id);
   const layers = await Promise.all<LayerMeta>(
@@ -9,9 +20,10 @@ export async function parse(id: string, protocol: string, host: string) {
       const data = await fetch(`${protocol}://${host}/${url}`);
       const blob = await data.blob();
 
+
       const arraybuffer = await blob.arrayBuffer();
       const img = Buffer.from(arraybuffer);
-      const { width, height } = sizeOf(img);
+      const { width, height } = getImageSize(img);
 
       return {
         name: url,

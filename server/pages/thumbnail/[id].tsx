@@ -32,7 +32,7 @@ export default function Thumbnail({ layers }) {
       }}
     >
       {layers.map((layer: LayerMeta, i: number) => {
-        return <Layer key={`${layer.name}_${i}`} image={layer} isThumbnail />;
+        return <Layer key={`${layer.name}_${i}`} image={layer} />;
       })}
     </div>
   );

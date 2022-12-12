@@ -26,6 +26,9 @@ export function Animation({ layers }: AnimationProps) {
       maxWidth: `${dimensions.width}px`,
       maxHeight: `${dimensions.height}px`,
       overflow: "hidden",
+      display: "flex",
+      alignItems: "center",
+      justifyContent: "center",
     };
   }, [dimensions.width, dimensions.height]);
   return (

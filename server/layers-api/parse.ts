@@ -3,7 +3,7 @@ import { getLayers } from "./layers-manifest";
 import sizeOf from "buffer-image-size";
 
 export async function parse(id: string, protocol: string, host: string) {
-  const layersUrl = getLayers(String(id));
+  const layersUrl = getLayers(id);
   const layers = await Promise.all<LayerMeta>(
     layersUrl.map(async (url: string) => {
       const data = await fetch(`${protocol}://${host}/${url}`);

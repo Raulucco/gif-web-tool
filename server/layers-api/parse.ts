@@ -9,7 +9,7 @@ function getImageSize(img: Buffer) {
     return {
       width: 1080,
       height: 1080,
-    }
+    };
   }
 }
 
@@ -20,14 +20,15 @@ export async function parse(id: string, protocol: string, host: string) {
       const data = await fetch(`${protocol}://${host}/${url}`);
       const blob = await data.blob();
 
-
       const arraybuffer = await blob.arrayBuffer();
       const img = Buffer.from(arraybuffer);
       const { width, height } = getImageSize(img);
 
       return {
         name: url,
-        url: `data:image/${url.split('.').pop()};base64,${img.toString('base64')}`,
+        url: `data:image/${url.split(".").pop()};base64,${img.toString(
+          "base64"
+        )}`,
         dimensions: {
           width,
           height,

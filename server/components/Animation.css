@@ -58,6 +58,18 @@
     font-size: 30px;
   }
 
+  @media (max-width: 460px) {
+    .flip-card-back div {
+      font-size: 12px;
+    }
+  }
+
+  @media (max-width: 180) {
+    .flip-card-back div {
+      font-size: 6px;
+    }
+  }
+
   .canvas {
     position: relative;
     width: 100%;

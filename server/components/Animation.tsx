@@ -26,7 +26,7 @@ export function Animation({ layers }: AnimationProps) {
 
   return (
     <div className="flip-card">
-      <div className={'flip-card-inner'}>
+      <div className={"flip-card-inner"}>
         <div className="flip-card-front">
           <div className="canvas" style={style as React.CSSProperties}>
             {layers.map((layer, i) => (
@@ -35,7 +35,11 @@ export function Animation({ layers }: AnimationProps) {
           </div>
         </div>
         <div className="flip-card-back">
-          <h1>Mixtapes vol. 5</h1>
+          <div>
+            <h1>Mixtapes vol. 6</h1>
+            <h2>Prague - 13.12.2022</h2>
+            <h3>I was there! 🎄</h3>
+          </div>
         </div>
       </div>
     </div>
